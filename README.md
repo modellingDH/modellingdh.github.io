@@ -1,39 +1,20 @@
-Just testing right now.
+## The Group
+Modelling DH is a collaboration between a group of academic researchers from different institutions, sharing the interests on digital humanities (DH).
 
-## Welcome to GitHub Pages
+### People
 
-You can use the [editor on GitHub](https://github.com/modellingDH/modellingdh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Dr. Alessandro Adamou](http://www.nuigalway.ie/our-research/people/engineering-and-informatics/alessandroadamou/) of the SFI Research Center for Data Analytics - Insight, National University of Ireland, Galway
+- [Dr. Alessio Antonini](http://kmi.open.ac.uk/people/member/alessio-antonini) of the Knowledge Media Institute the Open University, UK
+- [Prof. Mari Carmen Suárez-Figueroa](http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/teachers/33-mcsuarez/) of the Ontology Engineering Group, Universidad Politécnica de Madrid, Spain
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects & Collaborations
+The group works together or independently on a number of projects of relevance for the field of the Digital Humanities.
+In this view, we developed a number of ontologies, models, patterns and tools:
 
-### Markdown
+- [Experience & Observation - Ontology Design Pattern](https://github.com/modellingDH/odp_experience)
+- [Crowdsourcing Ontology](https://github.com/modellingDH/crowdsourcing-ontology)
+- [Reading Experience Ontology](https://github.com/eureadit/reading-experience-ontology)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Collaborate
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/modellingDH/modellingdh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wish to join our crew? Get in touch!
